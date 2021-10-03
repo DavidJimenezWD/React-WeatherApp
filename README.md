@@ -1,3 +1,3 @@
-# React WeatheApp API metaweather
+# React WeatheApp API openweathermap.org
 
-The metawheather API could only search for main cities in each country.
+OpenWeatherMap: Сurrent weather and forecast
