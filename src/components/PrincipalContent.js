@@ -37,7 +37,7 @@ export const PrincipalContent = ({ weatherDay }) => {
           <div className="principal-content-info2">
             <div className="wind-humidi">
               <p className="titles">Wind Status</p>
-              <p>{parseInt(list[0].wind.speed)} KM </p>
+              <p>{parseInt(list[0].wind.speed)} miles </p>
               <img
                 className="wind-icon"
                 src="./assets/wind.png"
